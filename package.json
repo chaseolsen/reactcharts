@@ -1,5 +1,6 @@
 {
   "name": "rrag-react-stockcharts-examples2-candlestickchart",
+  "homepage": "https://chaseolsen.github.io/reactcharts",
   "description": null,
   "version": "0.0.0",
   "dependencies": {
@@ -12,6 +13,7 @@
     "d3-dsv": "1.0.5"
   },
   "devDependencies": {
+    "gh-pages": "^1.0.0",
     "react-scripts": "1.0.0"
   },
   "scripts": {
