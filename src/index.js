@@ -6,6 +6,7 @@ import { getData } from "./utils"
 
 import { TypeChooser } from "react-stockcharts/lib/helper";
 
+// Reminder: You must have data first to load the chart, otherwise bad things will happen.
 
 class ChartComponent extends React.Component {
 	componentDidMount() {
